@@ -16,6 +16,14 @@ Olá! Sou recém-licenciado em Engenharia Informática pela Escola Superior de T
 - **HTML/CSS**: Estruturação e estilização de páginas web.
 - **React.js**: Desenvolvimento de interfaces de utilizador modernas e responsivas.
 - **Node.js**: Desenvolvimento de back-end para aplicações web.
+- **Angular**: Desenvolvimento de aplicações web estruturadas e modulares.
+
+### Testes de Software:
+ - **JUnit**: Testes unitários para aplicações Java.
+
+### CI/CD (Integração Contínua/Entrega Contínua):
+ - **GitHub Actions**: Automatização de pipelines CI/CD para integração e entrega contínuas.
+ - **Gitlab CI/CD**: Configuração e gestão de pipelines CI/CD em GitLab.
 
 ### Bases de Dados:
 - **SQL/MySQL**: Modelação e gestão de bases de dados relacionais.
