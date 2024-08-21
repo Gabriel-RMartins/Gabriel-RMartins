@@ -66,4 +66,4 @@ Olá! Com uma grande paixão por resolver problemas complexos e criar soluções
 Se quiser saber mais sobre os meus projetos ou discutir uma oportunidade de colaboração, sinta-se à vontade para me contactar:
 
 - **Email**: gabriel17.rmartins@gmail.com
-- **LinkedIn**: www.linkedin.com/in/gabriel-martins-1287a1322
+- **LinkedIn**: https://www.linkedin.com/in/gabrielr-martins
