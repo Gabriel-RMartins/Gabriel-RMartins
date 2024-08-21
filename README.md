@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou recém-licenciado em Engenharia Informática pela Escola Superior de Tecnologia e Gestão, com uma grande paixão por resolver problemas complexos e criar soluções inovadoras através da tecnologia. Desde cedo, a minha curiosidade por computadores e programação orientou-me para a carreira em Engenharia Informática. Ao longo do meu percurso académico, adquiri um conjunto diversificado de competências que me capacitam a enfrentar desafios em diversas áreas da engenharia informática.
+Olá! Com uma grande paixão por resolver problemas complexos e criar soluções inovadoras através da tecnologia, desde cedo, a minha curiosidade por computadores e programação orientou-me para a carreira em Engenharia Informática. Ao longo do meu percurso académico, adquiri um conjunto diversificado de competências que me capacitam a enfrentar desafios em diversas áreas da engenharia informática.
 
 ## Competências Técnicas
 
@@ -28,7 +28,7 @@ Olá! Sou recém-licenciado em Engenharia Informática pela Escola Superior de T
 
 ### Bases de Dados:
 - **SQL/MySQL**: Modelação e gestão de bases de dados relacionais.
-- **NoSQL (MongoDB)**: Gestão de bases de dados não relacionais.
+- **NoSQL (MongoDB e Firebase)**: Gestão de bases de dados não relacionais.
 
 ### Ferramentas e Tecnologias:
 - **Git/GitHub**: Controlo de versões e colaboração em projetos.
@@ -57,7 +57,9 @@ Olá! Sou recém-licenciado em Engenharia Informática pela Escola Superior de T
 ## Educação
 
 - **Licenciatura em Engenharia Informática**  
-  - Escola Superior de Tecnologia e Gestão, 2024
+  - Escola Superior de Tecnologia e Gestão, 2021 - 2024
+- **Curso profissional em Técnico e Gestão de Programação de Sistemas de Informação**
+  - Escola Secundária da Maia, 2018 - 2021
 
 ## Contacto
 
