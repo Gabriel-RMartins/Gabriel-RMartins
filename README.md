@@ -10,10 +10,11 @@ Olá! Sou recém-licenciado em Engenharia Informática pela Escola Superior de T
 - **Python**: Desenvolvimento de scripts, automação e análise de dados.
 - **Java**: Desenvolvimento de aplicações desktop e móveis.
 - **C/C++**: Programação de sistemas e algoritmos de baixo nível.
+- **C#**: Desenvolvimento de aplicações desktop, web e jogos, com utilização de frameworks como .NET e Unity.
 - **JavaScript/TypeScript**: Desenvolvimento web (React.js, Node.js, Express.js).
 
 ### Desenvolvimento Web:
-- **HTML/CSS**: Estruturação e estilização de páginas web.
+- **PHP/HTML/CSS**: Estruturação e estilização de páginas web.
 - **React.js**: Desenvolvimento de interfaces de utilizador modernas e responsivas.
 - **Node.js**: Desenvolvimento de back-end para aplicações web.
 - **Angular**: Desenvolvimento de aplicações web estruturadas e modulares.
