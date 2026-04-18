@@ -1,69 +1,74 @@
-# Bem-vindo ao meu GitHub! 👋
+# Hi there, I'm Gabriel Martins! 👋
 
-## Sobre Mim
+## 🚀 About Me
 
-Olá! Com uma grande paixão por resolver problemas complexos e criar soluções inovadoras através da tecnologia, desde cedo, a minha curiosidade por computadores e programação orientou-me para a carreira em Engenharia Informática. Ao longo do meu percurso académico, adquiri um conjunto diversificado de competências que me capacitam a enfrentar desafios em diversas áreas da engenharia informática.
+I am a **Software Engineer** dedicated to solving complex problems and building robust, scalable solutions, with a core focus on **Full-Stack & Mobile Development**. 
 
-## Competências Técnicas
+Currently, I serve as a **Junior Full-Stack & Mobile Developer at EDP Renewables**, where I develop high-performance features in **React Native** and **Java**, while also overseeing the **stability and monitoring of production environments**. My professional approach combines technical precision with a high capacity to adapt to diverse business domains—from industrial monitoring to field maintenance—and evolving tech stacks.
 
-### Linguagens de Programação:
-- **Python**: Desenvolvimento de scripts, automação e análise de dados.
-- **Java**: Desenvolvimento de aplicações desktop e móveis.
-- **C/C++**: Programação de sistemas e algoritmos de baixo nível.
-- **C#**: Desenvolvimento de aplicações desktop, web e jogos, com utilização de frameworks como .NET e Unity.
-- **JavaScript/TypeScript**: Desenvolvimento web (React.js, Node.js, Express.js).
+---
 
-### Desenvolvimento Web:
-- **PHP/HTML/CSS**: Estruturação e estilização de páginas web.
-- **React.js**: Desenvolvimento de interfaces de utilizador modernas e responsivas.
-- **Node.js**: Desenvolvimento de back-end para aplicações web.
-- **Angular**: Desenvolvimento de aplicações web estruturadas e modulares.
+## 🛠️ Technical Skills
 
-### Testes de Software:
- - **JUnit**: Testes unitários para aplicações Java.
+### **Mobile & Frontend Development**
+- **Mobile:** React Native, Kotlin (Native Android), Cross-Platform Optimization, Mobile UI.
+- **Web:** JavaScript/TypeScript (React.js, Angular, Node.js), HTML5, CSS3.
+- **UI/UX:** Specialized in responsive interfaces and mobile performance optimization.
 
-### CI/CD (Integração Contínua/Entrega Contínua):
- - **GitHub Actions**: Automatização de pipelines CI/CD para integração e entrega contínuas.
- - **Gitlab CI/CD**: Configuração e gestão de pipelines CI/CD em GitLab.
+### **Backend Architecture & Cloud**
+- **Languages:** Java, Node.js (Express.js), C#, Python, PHP.
+- **Real-time Systems:** Implementation of RESTful APIs and WebSockets for high-frequency data synchronization.
+- **Infrastructure:** Docker, AWS, Version Control (Git/GitHub/GitLab).
 
-### Bases de Dados:
-- **SQL/MySQL**: Modelação e gestão de bases de dados relacionais.
-- **NoSQL (MongoDB e Firebase)**: Gestão de bases de dados não relacionais.
+### **Reliability, DevOps & Data**
+- **Production Support:** Production environment management, real-time troubleshooting, and ensuring 99.9% system uptime.
+- **CI/CD:** Automation of pipelines via GitLab CI/CD and GitHub Actions.
+- **Testing:** Unit testing with JUnit.
+- **Databases:** SQL (MySQL, SQL Server, Oracle) and NoSQL (MongoDB, Firebase).
 
-### Ferramentas e Tecnologias:
-- **Git/GitHub**: Controlo de versões e colaboração em projetos.
-- **Docker**: Containerização de aplicações.
-- **Spring Boot**: Desenvolvimento de aplicações backend robustas.
+---
 
-## Projetos Destacados
+## 📂 Featured Projects
 
-### Urban Market
-- **Descrição**: O projeto LDS consiste no desenvolvimento de uma plataforma para feirantes e pequenos vendedores, permitindo-lhes vender os seus produtos online de forma mais fácil e acessível. Esta plataforma, denominada "Urban Market", foi concebida para facilitar a gestão de produtos, encomendas e pagamentos de maneira eficiente. O backend do sistema inclui a implementação de APIs REST para suportar a aplicação móvel e o frontend da plataforma.  
-- **Tecnologias**: Kotlin, Android Studio, Dotnet, Visual Studio.
-- **Link para o Repositório**: https://github.com/Gabriel-RMartins/Urban-Market.git
+### [Urban Market](https://github.com/Gabriel-RMartins/Urban-Market)
+*A digital commerce platform for local vendors and small businesses.*
+- **The Challenge**: Creating a scalable ecosystem to streamline online sales and secure transaction flows.
+- **Technologies**: Kotlin, HTML, C#, SQL Server.
 
-### Ticketing Software
-- **Descrição**: Este projeto é um site para a compra de tickets online para eventos onde permite que os utilizadores pesquisem eventos, selecionem tickets, e finalizem a compra através de uma interface web intuitiva. O sistema também suporta a gestão de eventos e tickets por parte dos administradores, incluindo funcionalidades como autenticação de utilizadores, gestão de sessões, e integração com bases de dados.
-- **Tecnologias**: Node.js, Express.js, MongoDB, EJS.
-- **Link para o Repositório**: https://github.com/Gabriel-RMartins/Ticketing-Software.git
+### [Ticketing Software](https://github.com/Gabriel-RMartins/Ticketing-Software)
+*An online event booking and ticket management system.*
+- **The Challenge**: Managing secure checkout flows and real-time event availability through an intuitive web interface.
+- **Technologies**: Angular, SQL Server.
 
-## Qualidades Pessoais
+### [LocalTalk](https://github.com/Gabriel-RMartins/LocalTalk)
+*Asynchronous local network messaging engine.*
+- **Highlights**: Focused on low-latency communication and socket-based architecture.
+- **Technologies**: Java, WebSockets.
 
-- **Adaptabilidade**: Capacidade de aprender rapidamente novas tecnologias e de me adaptar a diferentes ambientes de trabalho.
-- **Resolução de Problemas**: Abordagem analítica para a resolução de problemas complexos.
-- **Trabalho em Equipa**: Experiência em trabalhar em equipa e colaborar em projetos multidisciplinares.
-- **Inovação**: Paixão por criar soluções inovadoras que simplifiquem processos e melhorem a eficiência.
+### [Digital Pantry](https://github.com/Gabriel-RMartins/Digital-Pantry)
+*An intelligent management system for personal inventory tracking.*
+- **Technologies**: Kotlin, Firebase.
 
-## Educação
+---
 
-- **Licenciatura em Engenharia Informática**  
-  - Escola Superior de Tecnologia e Gestão, 2021 - 2024
-- **Curso profissional em Técnico e Gestão de Programação de Sistemas de Informação**
-  - Escola Secundária da Maia, 2018 - 2021
+## 🤝 Soft Skills & Adaptability
 
-## Contacto
+- **Production-Ready Mindset**: Experience in identifying and mitigating errors in critical, live environments.
+- **Rapid Domain Mastery**: Demonstrated ability to transition between different sectors such as Energy, E-commerce, and Field Maintenance.
+- **Collaborative Work**: Committed to high-performance execution and proactive problem-solving in fast-paced teams.
 
-Se quiser saber mais sobre os meus projetos ou discutir uma oportunidade de colaboração, sinta-se à vontade para me contactar:
+---
 
+## 🎓 Education
+
+- **Bachelor’s in Software Engineering** | ESTG (2021 - 2024)
+- **Professional Course in Systems Programming** | Escola Secundária da Maia (2018 - 2021)
+
+---
+
+## 📫 Let's Connect!
+
+I am always open to discussing new technologies, innovative projects, or collaboration opportunities.
+
+- **LinkedIn**: [linkedin.com/in/gabrielr-martins](https://www.linkedin.com/in/gabrielr-martins)
 - **Email**: gabriel17.rmartins@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/gabrielr-martins
